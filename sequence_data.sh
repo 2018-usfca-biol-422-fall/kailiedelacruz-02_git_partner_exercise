@@ -1,7 +1,9 @@
+#!/usr/bin/env bash
+
 # Script to setup a project directory to analyze sequence data fasta files
-# Initially created by Kailie Dela Cruz
+# Initially created by Kailie Dela Cruz and Martina Madrigal
 # September 07, 2018
-# kmdelacruz@dons.usfca.edu
+# kmdelacruz@dons.usfca.edu and mmmadrigal@dons.usfca.edu
 
 #Set up directory structure
 echo "Setting up directory structure"
